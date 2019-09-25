@@ -3,7 +3,7 @@
 # Cup-Noodle-Chawanmushi-Seamed-Egg-Custard
 Just a cup of noodles :)
 
-![Cup Noodle Chawanmushi Seamed Egg Custard](./)
+![Cup Noodle Chawanmushi Seamed Egg Custard](./Nissin Cup Noodles.jpg)
 
 -**Prep:** >1 Minutes
 
