@@ -3,7 +3,7 @@
 # Cup-Noodle-Chawanmushi-Seamed-Egg-Custard
 Just a cup of noodles :)
 
-![Cup Noodle Chawanmushi Seamed Egg Custard](./Nissin Cup Noodles.jpg)
+![Cup Noodle Chawanmushi Seamed Egg Custard](./)
 
 -**Prep:** >1 Minutes
 
@@ -26,3 +26,7 @@ Just a cup of noodles :)
 2) Pour the mixture into a mug and microwave for 2-3 minutes
 
 3) Enjoy!
+
+# Notes
+
+Make sure you blow before you eat! It's very hot! Eat with care and caution.
