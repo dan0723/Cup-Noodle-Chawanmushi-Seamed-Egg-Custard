@@ -17,7 +17,7 @@ Just a cup of noodles :)
 
 # Directions
 
-1)After you're done with the noodles, break an egg into the remaining soup and mix it well
+1) After you're done with the noodles, break an egg into the remaining soup and mix it well
 
 2) Pour the mixture into a mug and microwave for 2-3 minutes
 
