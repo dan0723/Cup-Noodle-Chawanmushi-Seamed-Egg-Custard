@@ -1,5 +1,7 @@
 # About
 
+Just a normal cup of noodles
+
 # Cup-Noodle-Chawanmushi-Seamed-Egg-Custard
 Just a cup of noodles :)
 
